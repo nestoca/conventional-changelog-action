@@ -1,4 +1,13 @@
-# 6.0.0 (2024-07-24)
+# [6.1.0](https://github.com/TriPSs/conventional-changelog-action/compare/v6.0.0...v6.1.0) (2026-03-26)
+
+
+### Features
+
+* **PL-5209:** pin action ([8915c4d](https://github.com/TriPSs/conventional-changelog-action/commit/8915c4d729e596712e3c0d7a516305fe8e3a8655))
+
+
+
+# [6.0.0](https://github.com/TriPSs/conventional-changelog-action/compare/70ed437cb42d5ad01303d98797a7988fe1266f6b...v6.0.0) (2024-07-24)
 
 
 ### Bug Fixes
